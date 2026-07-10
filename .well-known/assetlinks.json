@@ -5,8 +5,7 @@
       "namespace": "android_app",
       "package_name": "io.github.vguttikonda07.timgo",
       "sha256_cert_fingerprints": [
-        "REPLACE-WITH-PWABUILDER-SIGNING-KEY-SHA256",
-        "REPLACE-WITH-PLAY-APP-SIGNING-SHA256"
+        "7A:1C:EC:39:A4:5A:06:95:AF:05:C6:24:83:BE:6D:63:41:73:6A:A9:0C:AE:0A:08:D4:DF:11:CA:83:31:C4:B7"
       ]
     }
   }
